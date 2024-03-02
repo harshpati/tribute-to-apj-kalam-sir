@@ -192,7 +192,7 @@
 			<b>A.P.J. Abdul Kalam</b> 
 		</a>on Wikipedia. [
 			<small>Developed by @<a href="#">
-					Sushant Gaurav.</a>
+					.</a>
 		</small>]
 	</main>
 </body>
